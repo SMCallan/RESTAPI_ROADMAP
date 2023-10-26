@@ -79,3 +79,6 @@ This updated roadmap encapsulates the project's journey from inception to its cu
 --- 
 
 This revised roadmap reflects the HighScore project's progress, current standing in the testing phase, and outlines the upcoming phases focusing on enhancing the project's security, scalability, and community engagement.
+
+**This repository and accompanying roadmap pertain to a private repo project currently under development.**  
+
